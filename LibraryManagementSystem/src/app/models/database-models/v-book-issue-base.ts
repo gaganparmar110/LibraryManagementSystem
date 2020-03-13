@@ -24,7 +24,7 @@ export class vBookIssueBase {
 
 //#region mobileNo Prop
         @gridColumn({visible: true, columnIndex:4, allowSorting: true, headerKey: 'mobileNo', keyColumn: true})
-        mobileNo : number;
+        mobileNo : any;
 //#endregion mobileNo Prop
 
 

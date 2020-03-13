@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {}
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj",
+        "projectUniqueName": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj",
         "projectName": "LibraryManagementSystem.BoundedContext",
-        "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj",
-        "packagesPath": "C:\\Users\\Gagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\obj\\",
+        "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
-                "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj"
+              "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj"
               }
             }
           }
@@ -78,17 +78,17 @@
         }
       }
     },
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
+        "projectUniqueName": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
         "projectName": "LibraryManagementSystem.Models",
-        "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
-        "packagesPath": "C:\\Users\\Gagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\obj\\",
+        "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,17 +152,17 @@
         }
       }
     },
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj",
+        "projectUniqueName": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj",
         "projectName": "LibraryManagementSystem.UnitOfWork",
-        "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj",
-        "packagesPath": "C:\\Users\\Gagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\obj\\",
+        "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -175,8 +175,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
-                "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj"
+              "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
+                "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj"
               }
             }
           }

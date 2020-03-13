@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibraryManagementSystem",
+    "\\LibraryManagementSystem\\LibraryManagementSystem.Domain",
+    "\\LibraryManagementSystem\\LibraryManagementSystem.Domain\\BookEnteryDomain"
   ],
-  "SelectedNode": "\\script.sql",
+  "SelectedNode": "\\LibraryManagementSystem\\LibraryManagementSystem.Domain\\BookEnteryDomain\\BookEnteryDomain.cs",
   "PreviewInSolutionExplorer": false
 }

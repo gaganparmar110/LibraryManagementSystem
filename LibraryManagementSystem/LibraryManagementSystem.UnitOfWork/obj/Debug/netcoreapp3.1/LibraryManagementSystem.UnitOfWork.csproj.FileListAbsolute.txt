@@ -11,3 +11,16 @@ C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Unit
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.csproj.CopyComplete
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.dll
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.deps.json
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.AssemblyInfo.cs
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.csproj.CopyComplete
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.UnitOfWork\obj\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.pdb

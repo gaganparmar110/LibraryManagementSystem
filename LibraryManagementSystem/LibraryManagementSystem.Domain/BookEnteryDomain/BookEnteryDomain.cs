@@ -37,12 +37,12 @@ namespace LibraryManagementSystem.Domain.BookEnteryModule
         public async Task AddAsync(BookEntery parameters)
         {
            
-            var spParameters = new SqlParameter[5];
+            var spParameters = new SqlParameter[4];
             spParameters[0] = new SqlParameter() { ParameterName = "BookTitle", Value = parameters.BookTitle };
             spParameters[1] = new SqlParameter() { ParameterName = "BookName", Value = parameters.BookName };
             spParameters[2] = new SqlParameter() { ParameterName = "Copies", Value = parameters.Copies };
-            spParameters[3] = new SqlParameter() { ParameterName = "BookEnteryId", Value = parameters.BookEnteryId };
-            spParameters[4] = new SqlParameter() { ParameterName = "AuthorName", Value = parameters.AuthorName };
+          
+            spParameters[3] = new SqlParameter() { ParameterName = "AuthorName", Value = parameters.AuthorName };
            
             await DbContextManager.StoreProc<StoreProcResult>("[dbo].spBookEntery ", spParameters);
             try

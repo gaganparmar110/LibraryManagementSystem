@@ -20,7 +20,7 @@ namespace LibraryManagementSystem.Domain.BookIssueModule
 
         public async Task<object> GetAsync(vBookIssue parameters)
         {
-            return await Uow.Repository<BookIssue>().AllAsync();
+            return await Uow.Repository<vBookIssue>().AllAsync();
             //throw new NotImplementedException();
         }
 
@@ -37,12 +37,12 @@ namespace LibraryManagementSystem.Domain.BookIssueModule
 
         public async Task AddAsync(BookIssue parameters)
         {
-            var spParameters = new SqlParameter[5];
+            var spParameters = new SqlParameter[4];
             spParameters[0] = new SqlParameter() { ParameterName = "StudentId", Value = parameters.StudentId };
             spParameters[1] = new SqlParameter() { ParameterName = "BookDetailId", Value = parameters.BookDetailId };
             spParameters[2] = new SqlParameter() { ParameterName = "IssueDate", Value = parameters.IssueDate };
             spParameters[3] = new SqlParameter() { ParameterName = "ReturnDate", Value = parameters.ReturnDate };
-            spParameters[4] = new SqlParameter() { ParameterName = "BookIssueId", Value = parameters.BookIssueId };
+           
 
             await DbContextManager.StoreProc<StoreProcResult>("[dbo].spIssueBook ", spParameters);
             try

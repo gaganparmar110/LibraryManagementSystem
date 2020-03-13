@@ -19,13 +19,8 @@ namespace LibraryManagementSystem.Models.Main
 
         public string AuthorName { get; set; }
 
-		#region MobileNo Annotations
 
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [System.ComponentModel.DataAnnotations.Key]
-		#endregion MobileNo Annotations
-
-        public int MobileNo { get; set; }
+        public long MobileNo { get; set; }
 
 
         public System.DateTimeOffset IssueDate { get; set; }

@@ -22,4 +22,5 @@ bookDetails : BookDetailBase[];
 
 
 
+
 }

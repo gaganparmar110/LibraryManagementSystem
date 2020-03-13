@@ -10,12 +10,7 @@ namespace LibraryManagementSystem.Models.Main
     [Table("vReturnBook",Schema="dbo")]
     public partial class vReturnBook
     {
-        #region StudentName Annotations
 
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        [System.ComponentModel.DataAnnotations.Key]
-
-        #endregion StudentName Annotations
         public string StudentName { get; set; }
 
 

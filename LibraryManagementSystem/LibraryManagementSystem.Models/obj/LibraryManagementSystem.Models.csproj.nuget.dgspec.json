@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {}
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
+    "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
+        "projectUniqueName": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
         "projectName": "LibraryManagementSystem.Models",
-        "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
-        "packagesPath": "C:\\Users\\Gagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.Models\\obj\\",
+        "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

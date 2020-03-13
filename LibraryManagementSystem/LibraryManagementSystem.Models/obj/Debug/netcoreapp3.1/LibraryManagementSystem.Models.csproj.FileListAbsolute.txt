@@ -6,3 +6,11 @@ C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Mode
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Models\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
 C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.deps.json
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.csprojAssemblyReference.cache
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.AssemblyInfoInputs.cache
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.AssemblyInfo.cs
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
+C:\Users\radix\source\repos\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem.Models\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb

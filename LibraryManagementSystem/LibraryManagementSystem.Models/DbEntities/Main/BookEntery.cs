@@ -43,6 +43,7 @@ namespace LibraryManagementSystem.Models.Main
 
         public int Copies { get; set; }
 
+        public string AuthorName { get; set; }
 		#region BookDetails Annotations
 
         [InverseProperty("BookEntery")]
@@ -50,7 +51,7 @@ namespace LibraryManagementSystem.Models.Main
 
         public virtual ICollection<BookDetail> BookDetails { get; set; }
 
-        public string AuthorName { get; set; }
+
         public BookEntery()
         {
 			BookDetails = new HashSet<BookDetail>();
