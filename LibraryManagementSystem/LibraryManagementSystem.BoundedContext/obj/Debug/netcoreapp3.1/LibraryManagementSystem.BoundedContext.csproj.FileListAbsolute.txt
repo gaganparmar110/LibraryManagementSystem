@@ -1,0 +1,11 @@
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.csprojAssemblyReference.cache
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.AssemblyInfoInputs.cache
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.AssemblyInfo.cs
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.deps.json
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.csproj.CopyComplete
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.BoundedContext\obj\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.pdb

@@ -1,0 +1,17 @@
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Infrastructure.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.csprojAssemblyReference.cache
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.deps.json
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.BoundedContext.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.UnitOfWork.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Models.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\bin\Debug\netcoreapp3.1\LibraryManagementSystem.Infrastructure.pdb
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.csproj.CopyComplete
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.dll
+C:\Users\Gagan\source\repos\LibraryManagementSystem\LibraryManagementSystem.Domain\obj\Debug\netcoreapp3.1\LibraryManagementSystem.Domain.pdb
