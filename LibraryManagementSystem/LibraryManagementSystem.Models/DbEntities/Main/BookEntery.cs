@@ -42,9 +42,9 @@ namespace LibraryManagementSystem.Models.Main
 		#endregion Copies Annotations
 
         public int Copies { get; set; }
-
+        [NotMapped]
         public string AuthorName { get; set; }
-		#region BookDetails Annotations
+        #region BookDetails Annotations
 
         [InverseProperty("BookEntery")]
 		#endregion BookDetails Annotations

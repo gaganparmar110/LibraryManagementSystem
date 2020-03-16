@@ -3,7 +3,8 @@
     "",
     "\\LibraryManagementSystem",
     "\\LibraryManagementSystem\\LibraryManagementSystem.Domain",
-    "\\LibraryManagementSystem\\LibraryManagementSystem.Domain\\BookEnteryDomain"
+    "\\LibraryManagementSystem\\LibraryManagementSystem.Domain\\BookEnteryDomain",
+    "\\LibraryManagementSystem\\src"
   ],
   "SelectedNode": "\\LibraryManagementSystem\\LibraryManagementSystem.Domain\\BookEnteryDomain\\BookEnteryDomain.cs",
   "PreviewInSolutionExplorer": false

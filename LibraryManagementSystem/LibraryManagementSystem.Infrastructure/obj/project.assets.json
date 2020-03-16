@@ -6813,19 +6813,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\radix\\.nuget\\packages\\": {}
+    "C:\\Users\\Gagan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
       "projectName": "LibraryManagementSystem.Infrastructure",
-      "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\radix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\LibraryManagementSystem.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Gagan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\radix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gagan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6838,14 +6838,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
-              "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj"
+            "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj": {
+              "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.BoundedContext\\LibraryManagementSystem.BoundedContext.csproj"
             },
-            "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
-              "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj"
+            "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj": {
+              "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.Models\\LibraryManagementSystem.Models.csproj"
             },
-            "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {
-              "projectPath": "C:\\Users\\radix\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj"
+            "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj": {
+              "projectPath": "C:\\Users\\Gagan\\source\\repos\\LibraryManagementSystem1\\LibraryManagementSystem\\LibraryManagementSystem.UnitOfWork\\LibraryManagementSystem.UnitOfWork.csproj"
             }
           }
         }

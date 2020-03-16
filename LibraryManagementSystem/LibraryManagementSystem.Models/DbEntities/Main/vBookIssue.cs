@@ -28,6 +28,14 @@ namespace LibraryManagementSystem.Models.Main
 
         public System.DateTimeOffset ReturnDate { get; set; }
 
+		#region BookIssueId Annotations
+
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [System.ComponentModel.DataAnnotations.Key]
+		#endregion BookIssueId Annotations
+
+        public int BookIssueId { get; set; }
+
 
         public vBookIssue()
         {

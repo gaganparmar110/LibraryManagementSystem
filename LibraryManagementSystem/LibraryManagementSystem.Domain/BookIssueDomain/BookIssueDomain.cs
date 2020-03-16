@@ -18,13 +18,14 @@ namespace LibraryManagementSystem.Domain.BookIssueModule
             DbContextManager = dbContextManager;
         }
 
-        public async Task<object> GetAsync(vBookIssue parameters)
+        public async Task<object> GetAsync(BookIssue parameters)
         {
+            //vBookIssue vBookIssue = new vBookIssue();
             return await Uow.Repository<vBookIssue>().AllAsync();
             //throw new NotImplementedException();
         }
 
-        public Task<object> GetBy(vBookIssue parameters)
+        public Task<object> GetBy(BookIssue parameters)
         {
             throw new NotImplementedException();
         }
@@ -66,12 +67,12 @@ namespace LibraryManagementSystem.Domain.BookIssueModule
             await Uow.CommitAsync();
         }
 
-        public HashSet<string> DeleteValidation(vBookIssue parameters)
+        public HashSet<string> DeleteValidation(BookIssue parameters)
         {
             return ValidationMessages;
         }
 
-        public Task DeleteAsync(vBookIssue parameters)
+        public Task DeleteAsync(BookIssue parameters)
         {
             throw new NotImplementedException();
         }
@@ -82,5 +83,5 @@ namespace LibraryManagementSystem.Domain.BookIssueModule
         private IDbContextManager<MainSqlDbContext> DbContextManager { get; set; }
     }
 
-    public interface IBookIssueDomain : ICoreDomain<BookIssue, vBookIssue> { }
+    public interface IBookIssueDomain : ICoreDomain<BookIssue, BookIssue> { }
 }

@@ -18,7 +18,7 @@ namespace LibraryManagementSystem.BoundedContext.Main
             #region DbSets
             		public DbSet<BookEntery> BookEntery { get; set; }
 		public DbSet<BookDetail> BookDetail { get; set; }
-            		public DbSet<BookEntery> BookEnterys { get; set; }
+            	public DbSet<BookEntery> BookEnterys { get; set; }
 		public DbSet<BookDetail> BookDetails { get; set; }
             #endregion DbSets
 

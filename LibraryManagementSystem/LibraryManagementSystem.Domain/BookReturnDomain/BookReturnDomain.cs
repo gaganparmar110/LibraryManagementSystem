@@ -36,22 +36,11 @@ namespace LibraryManagementSystem.Domain.BookReturnModule
             return ValidationMessages;
         }
 
-        public async Task AddAsync(BookReturn entity)
-        {
-            await Uow.RegisterNewAsync(entity);
-            await Uow.CommitAsync();
-        }
-
-        public HashSet<string> UpdateValidation(BookReturn entity)
-        {
-            return ValidationMessages;
-        }
-
-        public async Task UpdateAsync(BookReturn parameters)
+        public async Task AddAsync(BookReturn parameters)
         {
             var spParameters = new SqlParameter[1];
             spParameters[0] = new SqlParameter() { ParameterName = "BookIssueId", Value = parameters.BookIssueId };
-         
+
 
             await DbContextManager.StoreProc<StoreProcResult>("[dbo].spReturnBook ", spParameters);
             try
@@ -62,6 +51,18 @@ namespace LibraryManagementSystem.Domain.BookReturnModule
             {
                 DbContextManager.RollbackTransaction();
             }
+        }
+
+        public HashSet<string> UpdateValidation(BookReturn entity)
+        {
+            return ValidationMessages;
+        }
+
+        public async Task UpdateAsync(BookReturn entity)
+        {
+            await Uow.RegisterDirtyAsync(entity);
+            await Uow.CommitAsync();
+
         }
 
         public HashSet<string> DeleteValidation(BookReturn parameters)

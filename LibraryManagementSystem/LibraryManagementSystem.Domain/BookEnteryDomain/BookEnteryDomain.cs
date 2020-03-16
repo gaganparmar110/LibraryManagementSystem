@@ -71,9 +71,13 @@ namespace LibraryManagementSystem.Domain.BookEnteryModule
             return ValidationMessages;
         }
 
-        public Task DeleteAsync(BookEntery parameters)
+        public async Task DeleteAsync(BookEntery parameters)
         {
-            throw new NotImplementedException();
+            BookDetail bookDetail = new BookDetail();
+            var candidate = Uow.Repository<BookEntery>().FindByKey(parameters.BookEnteryId);
+            await Uow.RegisterDeletedAsync(candidate);
+            await Uow.CommitAsync();
+            //throw new NotImplementedException();
         }
 
         public IBookEnteryUow Uow { get; set; }

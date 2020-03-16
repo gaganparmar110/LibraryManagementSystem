@@ -28,6 +28,14 @@ namespace LibraryManagementSystem.Models.Main
 
         public Nullable<int> ReturnStatusAO { get; set; }
 
+		#region BookReturnId Annotations
+
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [System.ComponentModel.DataAnnotations.Key]
+		#endregion BookReturnId Annotations
+
+        public int BookReturnId { get; set; }
+
 
         public vReturnBook()
         {

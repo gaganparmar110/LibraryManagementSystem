@@ -19,4 +19,7 @@ export class AdminDetail extends AdminDetailBase
 
 
 
+
+
+
 }

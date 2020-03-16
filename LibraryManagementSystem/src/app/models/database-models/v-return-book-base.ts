@@ -39,4 +39,10 @@ export class vReturnBookBase {
         returnStatusAO : any;
 //#endregion returnStatusAO Prop
 
+
+//#region bookReturnId Prop
+        @gridColumn({visible: true, columnIndex:6, allowSorting: true, headerKey: 'bookReturnId', keyColumn: true})
+        bookReturnId : number;
+//#endregion bookReturnId Prop
+
 }

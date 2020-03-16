@@ -14,7 +14,9 @@ using LibraryManagementSystem.Domain.AdminModule;
             using LibraryManagementSystem.Domain.BookModule;
             using LibraryManagementSystem.Domain.BookIssueModule;
             using LibraryManagementSystem.Domain.BookReturnModule;
+            using LibraryManagementSystem.Domain.FineCalculateModule;
             #endregion Namespace
+
 
 
 
@@ -85,7 +87,13 @@ namespace LibraryManagementSystem.Api.Bootstrap
             serviceCollection.AddScoped<IBookIssueDomain, BookIssueDomain>();
             
             serviceCollection.AddScoped<IBookReturnDomain, BookReturnDomain>();
+            
+            
+            
+            serviceCollection.AddScoped<IFineCalculateDomain, FineCalculateDomain>();
             #endregion DomainService
+
+
 
 
 

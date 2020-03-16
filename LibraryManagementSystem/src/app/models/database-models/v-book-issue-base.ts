@@ -39,4 +39,10 @@ export class vBookIssueBase {
         returnDate : any;
 //#endregion returnDate Prop
 
+
+//#region bookIssueId Prop
+        @gridColumn({visible: true, columnIndex:7, allowSorting: true, headerKey: 'bookIssueId', keyColumn: true})
+        bookIssueId : number;
+//#endregion bookIssueId Prop
+
 }
